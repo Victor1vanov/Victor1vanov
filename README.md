@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Victor1vanov
 - 👀 I’m interested in QA-Engineering
 - 🌱 I’m currently learning Aleksey Kulikov Basic Course
-- 💞️ I’m looking to collaborate on ...
 - 📫 Telegram @Victor1ivanov
 
 <!---
